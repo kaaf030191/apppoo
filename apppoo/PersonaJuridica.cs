@@ -10,5 +10,18 @@ namespace apppoo
     {
         private string Ruc;
         private string urlPaginaWeb;
+
+        public string Ruc1
+        {
+            get { return Ruc; }
+            set { Ruc = value; }
+        }
+      
+
+        public string UrlPaginaWeb
+        {
+            get { return urlPaginaWeb; }
+            set { urlPaginaWeb = value; }
+        }
     }
 }

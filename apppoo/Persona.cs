@@ -8,9 +8,36 @@ namespace apppoo
 {
     class Persona
     {
-        private string Nombre;
-        private string Direccion;
-        private int Telefono;
-        private string CorreoElectronico;
+        private string nombre;
+        private string direccion;
+        private int telefono;
+        private string correoelectronico;
+
+        public string Nombre
+        {
+            get { return nombre; }
+            set { nombre = value; }
+        }
+       
+
+        public string Direccion
+        {
+            get { return direccion; }
+            set { direccion = value; }
+        }
+        
+
+        public int Telefono
+        {
+            get { return telefono; }
+            set { telefono = value; }
+        }
+     
+
+        public string Correoelectronico
+        {
+            get { return correoelectronico; }
+            set { correoelectronico = value; }
+        }
     }
 }
