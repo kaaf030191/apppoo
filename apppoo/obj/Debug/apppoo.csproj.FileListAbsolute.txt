@@ -6,3 +6,6 @@ c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\app
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.csproj.GenerateResource.Cache
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.exe
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.pdb
+C:\Users\Robert\Documents\GitHub\apppoo\apppoo\bin\Debug\apppoo.exe.config
+C:\Users\Robert\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.exe
+C:\Users\Robert\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.pdb
