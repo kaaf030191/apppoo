@@ -10,5 +10,17 @@ namespace apppoo
     {
         private string ruc;
         private string url_pagina_web;
+
+        public string Ruc
+        {
+            get { return ruc; }
+            set { ruc = value; }
+        }
+     
+        public string Url_pagina_web
+        {
+            get { return url_pagina_web; }
+            set { url_pagina_web = value; }
+        }
     }
 }
