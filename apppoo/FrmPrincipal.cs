@@ -1,4 +1,5 @@
 ﻿using apppoo.Object;
+using apppoo.Query;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -13,18 +14,63 @@ namespace apppoo
 {
     public partial class FrmPrincipal : Form
     {
+        List<PersonaNatural> listaPersonaNatural;
+        List<PersonaJuridica> listaPersonaJuridica;
+
         public FrmPrincipal()
         {
+            listaPersonaNatural=new List<PersonaNatural>();
+            listaPersonaJuridica = new List<PersonaJuridica>();
+
             InitializeComponent();
         }
 
         private void btnTest_Click(object sender, EventArgs e)
         {
+            //PersonaNatural personaNatural = new PersonaNatural();
+
+            //personaNatural.nombre = "Carlos Sarmiento Aranibar";
+
+            //lblNombre.Text = personaNatural.nombre;
+
+            //QPersona qPersona = new QPersona();
+
+            //qPersona.insertar();
+
+            //QPersona qPersonaNatural = new QPersonaNatural();
+            //QPersona qPersonaJuridica = new QPersonaJuridica();
+
+            //qPersonaNatural.insertar();
+            //qPersonaJuridica.insertar();
+
+            string nombre="Carlos";
+            string direccion="Av. Cáceres";
+            string telefono="987987988";
+            string correoElectronico="carlos@gmail.com";
+            string apellido = "Cáceres Alcides";
+            string dni = "77777777";
+            string fechaNacimiento = "1991/01/01";
+            bool sexo = true;
+
             PersonaNatural personaNatural = new PersonaNatural();
 
-            personaNatural.nombre = "Carlos Sarmiento Aranibar";
+            personaNatural.nombre = nombre;
+            personaNatural.direccion = direccion;
+            personaNatural.telefono = telefono;
+            personaNatural.correoElectronico = correoElectronico;
+            personaNatural.apellido=apellido;
+            personaNatural.dni=dni;
+            personaNatural.fechaNacimiento=fechaNacimiento;
+            personaNatural.sexo=sexo;
 
-            lblNombre.Text = personaNatural.nombre;
+            QPersona qPersona = new QPersonaNatural();
+
+            qPersona.insertarPersonaNatural(personaNatural, ref listaPersonaNatural);
+
+            foreach (var item in listaPersonaNatural)
+            {
+                MessageBox.Show(item.nombre);
+            }
         }
     }
 }
