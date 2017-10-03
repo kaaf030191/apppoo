@@ -6,3 +6,4 @@ c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\app
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.csproj.GenerateResource.Cache
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.exe
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.pdb
+c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.FrmPrincipal.resources
