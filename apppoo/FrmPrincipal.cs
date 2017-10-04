@@ -104,7 +104,11 @@ namespace apppoo
         {
             QPersona qPersona = new QPersonaNatural();
 
+            dataGridView1.DataSource = null;
+
             qPersona.listarPersona(listaPersonaNatural, listaPersonaJuridica, ref dataGridView1);
+
+            dataGridView1.Refresh();
         }
     }
 }
