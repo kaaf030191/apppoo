@@ -19,7 +19,10 @@ namespace apppoo
 
         private void button1_Click(object sender, System.EventArgs e)
         {
-            if (SelectTipoPersona.Items[0].ToString() == "1")
+            string mensaje = SelectTipoPersona.SelectedItem.ToString();
+            MessageBox.Show(mensaje);
+            
+            if (SelectTipoPersona.SelectedItem.ToString() == "Persona Natural")
             {
                 PersonaNatural personaNatural = new PersonaNatural();
                 personaNatural.nombre = txtNombre.Text;

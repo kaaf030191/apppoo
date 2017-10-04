@@ -1,4 +1,5 @@
-﻿using System;
+﻿using apppoo.Singleton;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace apppoo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmPrinsipal());
+            Application.Run(new FrmSingleton());
         }
     }
 }
