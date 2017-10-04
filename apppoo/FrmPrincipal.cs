@@ -72,5 +72,39 @@ namespace apppoo
                 MessageBox.Show(item.nombre);
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nombre = txtNombre.Text;
+            string direccion = txtDireccion.Text;
+            string telefono = txtTelefono.Text;
+            string correoElectronico = txtCorreo.Text;
+            string apellido = txtApellido.Text;
+            string dni = txtDni.Text;
+            string fechaNacimiento = txtFechaNacimiento.Text;
+            bool sexo = txtSexo.Text=="M" ? true : false;
+
+            PersonaNatural personaNatural = new PersonaNatural();
+
+            personaNatural.nombre = nombre;
+            personaNatural.direccion = direccion;
+            personaNatural.telefono = telefono;
+            personaNatural.correoElectronico = correoElectronico;
+            personaNatural.apellido = apellido;
+            personaNatural.dni = dni;
+            personaNatural.fechaNacimiento = fechaNacimiento;
+            personaNatural.sexo = sexo;
+
+            QPersona qPersona = new QPersonaNatural();
+
+            qPersona.insertarPersonaNatural(personaNatural, ref listaPersonaNatural);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            QPersona qPersona = new QPersonaNatural();
+
+            qPersona.listarPersona(listaPersonaNatural, listaPersonaJuridica, ref dataGridView1);
+        }
     }
 }

@@ -10,5 +10,10 @@ namespace apppoo.Query
         {
             listaPersonaJuridica.Add(personaJuridica);
         }
+
+        public override void listarPersona(List<PersonaNatural> listaPersonaNatural, List<PersonaJuridica> listaPersonaJuridica, ref DataGridView dgv)
+        {
+            dgv.DataSource = listaPersonaJuridica;
+        }
     }
 }

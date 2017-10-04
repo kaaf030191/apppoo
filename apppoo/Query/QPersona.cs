@@ -12,5 +12,7 @@ namespace apppoo.Query
         }
 
         public virtual void insertarPersonaNatural(PersonaNatural personaNatural, ref List<PersonaNatural> listaPersonaNatural) { }
+
+        public virtual void listarPersona(List<PersonaNatural> listaPersonaNatural, List<PersonaJuridica> listaPersonaJuridica, ref DataGridView dgv) { }
     }
 }
