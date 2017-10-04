@@ -61,6 +61,14 @@
     <Compile Include="PersonaNatural.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SingleTon\Hijo1.cs" />
+    <Compile Include="SingleTon\Hijo2.cs" />
+    <Compile Include="SingleTon\Hijo3.cs" />
+    <Compile Include="SingleTon\IMantenimiento.cs" />
+    <Compile Include="SingleTon\Interface2.cs" />
+    <Compile Include="SingleTon\Interface1.cs" />
+    <Compile Include="SingleTon\Padre.cs" />
+    <Compile Include="SingleTon\Persona.cs" />
     <Compile Include="SingleTon\PruebaSingleTon.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +76,7 @@
       <DependentUpon>PruebaSingleTon.cs</DependentUpon>
     </Compile>
     <Compile Include="SingleTon\SingleTon.cs" />
+    <Compile Include="SingleTon\Usuario.cs" />
     <EmbeddedResource Include="frmAgregarPersona.resx">
       <DependentUpon>frmAgregarPersona.cs</DependentUpon>
     </EmbeddedResource>
