@@ -14,3 +14,4 @@ C:\Users\Alice\Documents\GitHub\apppoo\apppoo\bin\Debug\apppoo.pdb
 C:\Users\Alice\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.csprojResolveAssemblyReference.cache
 C:\Users\Alice\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.Properties.Resources.resources
 C:\Users\Alice\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.csproj.GenerateResource.Cache
+C:\Users\Alice\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.Form1.resources

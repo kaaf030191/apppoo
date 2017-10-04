@@ -1,4 +1,5 @@
-﻿using System;
+﻿using apppoo.Singleton;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,12 @@ namespace apppoo
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btnMostrar_Click(object sender, EventArgs e)
+        {
+            string xyz = SingleTom.getInstance.saludar("SVS");
+            MessageBox.Show(xyz);
         }
     }
 }
