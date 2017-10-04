@@ -6,3 +6,7 @@ c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\app
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.csproj.GenerateResource.Cache
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.exe
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.pdb
+C:\xampp\htdocs\Tareamongodb\apppoo\apppoo\bin\Debug\apppoo.exe.config
+C:\xampp\htdocs\Tareamongodb\apppoo\apppoo\obj\Debug\apppoo.exe
+C:\xampp\htdocs\Tareamongodb\apppoo\apppoo\obj\Debug\apppoo.pdb
+C:\xampp\htdocs\Tareamongodb\apppoo\apppoo\obj\Debug\apppoo.csprojResolveAssemblyReference.cache
