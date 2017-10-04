@@ -14,3 +14,4 @@ C:\Users\Robert\Documents\GitHub\apppoo\apppoo\bin\Debug\apppoo.pdb
 C:\Users\Robert\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.csprojResolveAssemblyReference.cache
 C:\Users\Robert\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.Properties.Resources.resources
 C:\Users\Robert\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.csproj.GenerateResource.Cache
+C:\Users\Robert\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.frmAgregarPersona.resources

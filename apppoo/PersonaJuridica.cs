@@ -1,26 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace apppoo
+﻿namespace apppoo
 {
-    class PersonaJuridica
+    class PersonaJuridica : Persona
     {
-        private string ruc;
-        private string url_pagina_web;
+        public string ruc { set; get; }
+        public string url_pagina_web { set; get; }
 
-        public string Ruc
-        {
-            get { return ruc; }
-            set { ruc = value; }
-        }
-     
-        public string Url_pagina_web
-        {
-            get { return url_pagina_web; }
-            set { url_pagina_web = value; }
-        }
     }
 }
