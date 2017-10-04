@@ -10,3 +10,6 @@ c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\app
 C:\xampp\htdocs\Tareamongodb\apppoo\apppoo\bin\Debug\apppoo.exe.config
 C:\xampp\htdocs\Tareamongodb\apppoo\apppoo\obj\Debug\apppoo.exe
 C:\xampp\htdocs\Tareamongodb\apppoo\apppoo\obj\Debug\apppoo.pdb
+C:\Users\karlos\Desktop\Nueva carpeta\apppoo\bin\Debug\apppoo.exe.config
+C:\Users\karlos\Desktop\Nueva carpeta\apppoo\obj\Debug\apppoo.exe
+C:\Users\karlos\Desktop\Nueva carpeta\apppoo\obj\Debug\apppoo.pdb
