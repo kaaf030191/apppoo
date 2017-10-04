@@ -15,3 +15,4 @@ C:\Users\Robert\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.csprojResolveAss
 C:\Users\Robert\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.Properties.Resources.resources
 C:\Users\Robert\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.csproj.GenerateResource.Cache
 C:\Users\Robert\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.frmAgregarPersona.resources
+C:\Users\Robert\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.SingleTon.PruebaSingleTon.resources

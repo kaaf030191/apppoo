@@ -1,4 +1,5 @@
-﻿using System;
+﻿using apppoo.SingleTon;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace apppoo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmAgregarPersona());
+            Application.Run(new PruebaSingleTon());
         }
     }
 }
