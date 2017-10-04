@@ -11,7 +11,7 @@ namespace apppoo.NewFolder1
         private static cl_1 p;
         public cl_1()
         {
-
+            System.Windows.Forms.MessageBox.Show("Nuevo Singleton");
         }
         
 
@@ -33,5 +33,7 @@ namespace apppoo.NewFolder1
         {
             return "hola" + nombre;
         }
-     }
+
+        string x = cl_1.Getinstace().saludar("svs");
+    }
 }
