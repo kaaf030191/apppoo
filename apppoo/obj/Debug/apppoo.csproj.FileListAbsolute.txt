@@ -16,3 +16,4 @@ A:\SVS\apppoo\apppoo\obj\Debug\apppoo.exe
 A:\SVS\apppoo\apppoo\obj\Debug\apppoo.pdb
 A:\SVS\apppoo\apppoo\obj\Debug\apppoo.csprojResolveAssemblyReference.cache
 A:\SVS\apppoo\apppoo\obj\Debug\apppoo.Singleton.FrmSingleton.resources
+A:\SVS\apppoo\apppoo\obj\Debug\apppoo.Interfaces.FrmInterfaces.resources

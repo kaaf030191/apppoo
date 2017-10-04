@@ -52,6 +52,15 @@
     <Compile Include="FrmPrinsipal.Designer.cs">
       <DependentUpon>FrmPrinsipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Interfaces\FrmInterfaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaces\FrmInterfaces.Designer.cs">
+      <DependentUpon>FrmInterfaces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaces\IMantenimiento.cs" />
+    <Compile Include="Interfaces\Persona1.cs" />
+    <Compile Include="Interfaces\Usuario.cs" />
     <Compile Include="Object\Persona.cs" />
     <Compile Include="Object\PersonaJuridica.cs" />
     <Compile Include="Object\PersonaNatural.cs" />
@@ -67,8 +76,12 @@
     <Compile Include="Singleton\FrmSingleton.Designer.cs">
       <DependentUpon>FrmSingleton.cs</DependentUpon>
     </Compile>
+    <Compile Include="Singleton\SingletonSeales.cs" />
     <EmbeddedResource Include="FrmPrinsipal.resx">
       <DependentUpon>FrmPrinsipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaces\FrmInterfaces.resx">
+      <DependentUpon>FrmInterfaces.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
