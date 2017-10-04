@@ -46,14 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="FrmPrinsipal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FrmPrinsipal.Designer.cs">
+      <DependentUpon>FrmPrinsipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Object\Persona.cs" />
+    <Compile Include="Object\PersonaJuridica.cs" />
+    <Compile Include="Object\PersonaNatural.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Query\QPersona.cs" />
+    <Compile Include="Query\QPersonaJuridica.cs" />
+    <Compile Include="Query\QPersonaNatural.cs" />
+    <EmbeddedResource Include="FrmPrinsipal.resx">
+      <DependentUpon>FrmPrinsipal.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

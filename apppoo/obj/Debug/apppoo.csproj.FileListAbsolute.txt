@@ -6,3 +6,12 @@ c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\app
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.csproj.GenerateResource.Cache
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.exe
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.pdb
+A:\SVS\apppoo\apppoo\obj\Debug\apppoo.FrmPrinsipal.resources
+A:\SVS\apppoo\apppoo\obj\Debug\apppoo.Properties.Resources.resources
+A:\SVS\apppoo\apppoo\obj\Debug\apppoo.csproj.GenerateResource.Cache
+A:\SVS\apppoo\apppoo\bin\Debug\apppoo.exe.config
+A:\SVS\apppoo\apppoo\bin\Debug\apppoo.exe
+A:\SVS\apppoo\apppoo\bin\Debug\apppoo.pdb
+A:\SVS\apppoo\apppoo\obj\Debug\apppoo.exe
+A:\SVS\apppoo\apppoo\obj\Debug\apppoo.pdb
+A:\SVS\apppoo\apppoo\obj\Debug\apppoo.csprojResolveAssemblyReference.cache
