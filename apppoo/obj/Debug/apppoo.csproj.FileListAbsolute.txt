@@ -7,3 +7,7 @@ c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\app
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.exe
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.pdb
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.FrmPrincipal.resources
+C:\Users\pc\Documents\GitHub\apppoo\apppoo\bin\Debug\apppoo.exe.config
+C:\Users\pc\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.exe
+C:\Users\pc\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.pdb
+C:\Users\pc\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.csprojResolveAssemblyReference.cache
