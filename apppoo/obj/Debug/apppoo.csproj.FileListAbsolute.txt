@@ -12,3 +12,6 @@ C:\xampp\htdocs\Tareamongodb\apppoo\apppoo\obj\Debug\apppoo.pdb
 C:\Users\karlos\Desktop\Nueva carpeta\apppoo\bin\Debug\apppoo.exe.config
 C:\Users\karlos\Desktop\Nueva carpeta\apppoo\obj\Debug\apppoo.exe
 C:\Users\karlos\Desktop\Nueva carpeta\apppoo\obj\Debug\apppoo.pdb
+C:\Users\DAVID\Documents\GitHub\apppoo\apppoo\bin\Debug\apppoo.exe.config
+C:\Users\DAVID\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.exe
+C:\Users\DAVID\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.pdb
