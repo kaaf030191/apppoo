@@ -52,12 +52,18 @@
     <Compile Include="FrmPrinsipal.Designer.cs">
       <DependentUpon>FrmPrinsipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Interfaces\Clase 1\Clase1.cs" />
+    <Compile Include="Interfaces\Clase 1\Clase2.cs" />
+    <Compile Include="Interfaces\Clase 1\Clase3.cs" />
+    <Compile Include="Interfaces\Clase 1\General.cs" />
+    <Compile Include="Interfaces\Clase 1\IInterface1.cs" />
     <Compile Include="Interfaces\FrmInterfaces.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Interfaces\FrmInterfaces.Designer.cs">
       <DependentUpon>FrmInterfaces.cs</DependentUpon>
     </Compile>
+    <Compile Include="Interfaces\IInterface2.cs" />
     <Compile Include="Interfaces\IMantenimiento.cs" />
     <Compile Include="Interfaces\Persona1.cs" />
     <Compile Include="Interfaces\Usuario.cs" />
@@ -108,6 +114,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

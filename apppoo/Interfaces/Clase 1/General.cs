@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace apppoo.Interfaces.Clase_1
 {
-    class General
+    public class General
     {
     }
 }

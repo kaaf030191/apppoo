@@ -21,7 +21,7 @@ namespace apppoo
         {
             string mensaje = SelectTipoPersona.SelectedItem.ToString();
             MessageBox.Show(mensaje);
-            
+
             if (SelectTipoPersona.SelectedItem.ToString() == "Persona Natural")
             {
                 PersonaNatural personaNatural = new PersonaNatural();
@@ -31,6 +31,7 @@ namespace apppoo
                 personaNatural.direcion = txtDirecion.Text;
                 personaNatural.sexo = true;
                 personaNatural.fechaNacimiento = "12/7/2000";
+                personaNatural.correoElectronico = txtCorreoElectronico.Text;
 
                 QPersona qPersona = new QPersonaNatural();
                 qPersona.insertarPersonaNatural(personaNatural, ref listaPersonaNatural);
@@ -45,6 +46,9 @@ namespace apppoo
                 personaJuridica.telefono = txtEmail.Text;
                 personaJuridica.direcion = txtDirecion.Text;
                 personaJuridica.paginaWeb = txtPaginaWeb.Text;
+
+                QPersona qpersonaJuridica = new QPersonaJuridica();
+                qpersonaJuridica.insertarPersonaJuridica(personaJuridica, ref listaPersonaJuridica);
 
 
             }

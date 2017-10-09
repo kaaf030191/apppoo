@@ -46,6 +46,8 @@
             this.txtRuc = new System.Windows.Forms.TextBox();
             this.txtPaginaWeb = new System.Windows.Forms.TextBox();
             this.dgvData = new System.Windows.Forms.DataGridView();
+            this.label4 = new System.Windows.Forms.Label();
+            this.txtCorreoElectronico = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvData)).BeginInit();
             this.SuspendLayout();
             // 
@@ -131,7 +133,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(99, 255);
+            this.button1.Location = new System.Drawing.Point(77, 283);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 10;
@@ -152,7 +154,7 @@
             // 
             // btnListar
             // 
-            this.btnListar.Location = new System.Drawing.Point(212, 255);
+            this.btnListar.Location = new System.Drawing.Point(188, 283);
             this.btnListar.Name = "btnListar";
             this.btnListar.Size = new System.Drawing.Size(75, 23);
             this.btnListar.TabIndex = 12;
@@ -200,11 +202,29 @@
             this.dgvData.Size = new System.Drawing.Size(304, 150);
             this.dgvData.TabIndex = 17;
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(7, 254);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(88, 13);
+            this.label4.TabIndex = 18;
+            this.label4.Text = "Correo Elctronico";
+            // 
+            // txtCorreoElectronico
+            // 
+            this.txtCorreoElectronico.Location = new System.Drawing.Point(99, 251);
+            this.txtCorreoElectronico.Name = "txtCorreoElectronico";
+            this.txtCorreoElectronico.Size = new System.Drawing.Size(100, 20);
+            this.txtCorreoElectronico.TabIndex = 19;
+            // 
             // FrmPrinsipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(712, 339);
+            this.Controls.Add(this.txtCorreoElectronico);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.dgvData);
             this.Controls.Add(this.txtPaginaWeb);
             this.Controls.Add(this.txtRuc);
@@ -251,5 +271,7 @@
         private System.Windows.Forms.TextBox txtRuc;
         private System.Windows.Forms.TextBox txtPaginaWeb;
         private System.Windows.Forms.DataGridView dgvData;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox txtCorreoElectronico;
     }
 }

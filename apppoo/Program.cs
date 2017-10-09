@@ -18,7 +18,7 @@ namespace apppoo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmInterfaces());
+            Application.Run(new FrmPrinsipal());
         }
     }
 }

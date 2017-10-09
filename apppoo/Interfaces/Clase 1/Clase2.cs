@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace apppoo.Interfaces.Clase_1
 {
@@ -10,17 +11,20 @@ namespace apppoo.Interfaces.Clase_1
     {
         public bool Editar()
         {
-            throw new NotImplementedException();
+            MessageBox.Show("Editando clase 2");
+            return true;
         }
 
         public bool Eliminar()
         {
-            throw new NotImplementedException();
+            MessageBox.Show("Elimnado clase 2");
+            return true;
         }
 
         public bool Insertar()
         {
-            throw new NotImplementedException();
+            MessageBox.Show("Insertanado clase 1");
+            return true;
         }
     }
 }
