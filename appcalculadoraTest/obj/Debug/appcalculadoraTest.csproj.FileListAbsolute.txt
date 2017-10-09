@@ -1,0 +1,5 @@
+C:\Users\Robert\Documents\GitHub\apppoo\appcalculadoraTest\bin\Debug\appcalculadoraTest.dll
+C:\Users\Robert\Documents\GitHub\apppoo\appcalculadoraTest\bin\Debug\appcalculadoraTest.pdb
+C:\Users\Robert\Documents\GitHub\apppoo\appcalculadoraTest\obj\Debug\appcalculadoraTest.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\GitHub\apppoo\appcalculadoraTest\obj\Debug\appcalculadoraTest.dll
+C:\Users\Robert\Documents\GitHub\apppoo\appcalculadoraTest\obj\Debug\appcalculadoraTest.pdb

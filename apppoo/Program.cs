@@ -17,7 +17,7 @@ namespace apppoo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PruebaSingleTon());
+            Application.Run(new frmAgregarPersona());
         }
     }
 }
