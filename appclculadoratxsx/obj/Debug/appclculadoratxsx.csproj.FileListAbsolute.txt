@@ -1,0 +1,8 @@
+A:\SVS\apppoo\appclculadoratxsx\bin\Debug\appclculadoratxsx.dll
+A:\SVS\apppoo\appclculadoratxsx\bin\Debug\appclculadoratxsx.pdb
+A:\SVS\apppoo\appclculadoratxsx\bin\Debug\AppCalculadora.exe
+A:\SVS\apppoo\appclculadoratxsx\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+A:\SVS\apppoo\appclculadoratxsx\bin\Debug\AppCalculadora.pdb
+A:\SVS\apppoo\appclculadoratxsx\obj\Debug\appclculadoratxsx.csprojResolveAssemblyReference.cache
+A:\SVS\apppoo\appclculadoratxsx\obj\Debug\appclculadoratxsx.dll
+A:\SVS\apppoo\appclculadoratxsx\obj\Debug\appclculadoratxsx.pdb
