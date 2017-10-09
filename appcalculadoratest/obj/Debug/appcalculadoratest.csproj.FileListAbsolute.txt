@@ -1,0 +1,9 @@
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\bin\Debug\appcalculadoratest.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\bin\Debug\appcalculadoratest.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\bin\Debug\appcalculadora.exe
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\bin\Debug\nunit.framework.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\bin\Debug\appcalculadora.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\bin\Debug\nunit.framework.xml
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\obj\Debug\appcalculadoratest.csprojResolveAssemblyReference.cache
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\obj\Debug\appcalculadoratest.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\obj\Debug\appcalculadoratest.pdb

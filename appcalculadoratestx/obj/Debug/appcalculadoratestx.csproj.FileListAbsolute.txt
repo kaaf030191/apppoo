@@ -1,0 +1,8 @@
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratestx\bin\Debug\appcalculadoratestx.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratestx\bin\Debug\appcalculadoratestx.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratestx\bin\Debug\appcalculadora.exe
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratestx\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratestx\bin\Debug\appcalculadora.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratestx\obj\Debug\appcalculadoratestx.csprojResolveAssemblyReference.cache
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratestx\obj\Debug\appcalculadoratestx.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratestx\obj\Debug\appcalculadoratestx.pdb
