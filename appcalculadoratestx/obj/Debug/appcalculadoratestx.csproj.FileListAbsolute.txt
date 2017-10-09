@@ -1,0 +1,9 @@
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratestx\bin\Debug\appcalculadoratestx.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratestx\bin\Debug\appcalculadoratestx.pdb
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratestx\bin\Debug\appcalculadora.exe
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratestx\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratestx\bin\Debug\appcalculadora.pdb
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratestx\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratestx\obj\Debug\appcalculadoratestx.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratestx\obj\Debug\appcalculadoratestx.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratestx\obj\Debug\appcalculadoratestx.pdb

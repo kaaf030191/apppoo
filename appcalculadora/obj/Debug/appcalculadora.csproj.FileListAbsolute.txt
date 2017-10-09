@@ -1,0 +1,6 @@
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadora\bin\Debug\appcalculadora.exe.config
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadora\bin\Debug\appcalculadora.exe
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadora\bin\Debug\appcalculadora.pdb
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadora\obj\Debug\appcalculadora.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadora\obj\Debug\appcalculadora.exe
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadora\obj\Debug\appcalculadora.pdb

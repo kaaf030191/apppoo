@@ -1,0 +1,9 @@
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratest\bin\Debug\appcalculadoratest.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratest\bin\Debug\appcalculadoratest.pdb
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratest\bin\Debug\appcalculadora.exe
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratest\bin\Debug\nunit.framework.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratest\bin\Debug\appcalculadora.pdb
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratest\bin\Debug\nunit.framework.xml
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratest\obj\Debug\appcalculadoratest.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratest\obj\Debug\appcalculadoratest.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\appcalculadoratest\obj\Debug\appcalculadoratest.pdb
