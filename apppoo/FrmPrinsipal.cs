@@ -46,6 +46,7 @@ namespace apppoo
                 personaJuridica.telefono = txtEmail.Text;
                 personaJuridica.direcion = txtDirecion.Text;
                 personaJuridica.paginaWeb = txtPaginaWeb.Text;
+                personaJuridica.correoElectronico = txtCorreoElectronico.Text;
 
                 QPersona qpersonaJuridica = new QPersonaJuridica();
                 qpersonaJuridica.insertarPersonaJuridica(personaJuridica, ref listaPersonaJuridica);
@@ -57,12 +58,20 @@ namespace apppoo
         private void btnListar_Click(object sender, System.EventArgs e)
         {
             QPersona qPersona = new QPersonaNatural();
+            QPersona qPersonaJ = new QPersonaJuridica();
 
             dgvData.DataSource = null;
 
-            qPersona.ListarPersona(listaPersonaNatural, listaPersonaJuridica, ref dgvData);
-
-            dgvData.Refresh();
+            if (SelectTipoPersona.SelectedItem.ToString() == "Persona Natural")
+            {
+                qPersona.ListarPersona(listaPersonaNatural, listaPersonaJuridica, ref dgvData);
+                dgvData.Refresh();
+            }
+            else
+            {
+                qPersonaJ.ListarPersona(listaPersonaNatural, listaPersonaJuridica, ref dgvData);
+                dgvData.Refresh();
+            } 
         }
     }
 }
