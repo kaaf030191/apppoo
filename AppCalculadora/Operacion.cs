@@ -1,14 +1,16 @@
 ﻿using System;
 namespace AppCalculadora
 {
-    public class Operacion
+    public class Operacion:IOperacion
     {
-        public float Sumar(float numero1, float numero2)
+        public float Sumar(float numeroUno, float numeroDos)
         {
-           // float resultado = numero1 + numero2;
-            // return resultado;
-            return numero1 + numero2;
+            return numeroUno + numeroDos;
+        }
 
+        public float Restar(float numeroUno, float numeroDos)
+        {
+            throw new NotImplementedException();
         }
     }
 }

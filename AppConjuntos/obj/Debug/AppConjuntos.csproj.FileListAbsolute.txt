@@ -1,0 +1,6 @@
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntos\bin\Debug\AppConjuntos.exe.config
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntos\bin\Debug\AppConjuntos.exe
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntos\bin\Debug\AppConjuntos.pdb
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntos\obj\Debug\AppConjuntos.csprojResolveAssemblyReference.cache
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntos\obj\Debug\AppConjuntos.exe
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntos\obj\Debug\AppConjuntos.pdb

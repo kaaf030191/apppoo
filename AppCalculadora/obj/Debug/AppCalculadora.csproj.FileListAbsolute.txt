@@ -1,6 +1,8 @@
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadora\bin\Debug\AppCalculadora.exe.config
-C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadora\obj\Debug\AppCalculadora.csprojResolveAssemblyReference.cache
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadora\bin\Debug\AppCalculadora.exe
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadora\bin\Debug\AppCalculadora.pdb
+C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadora\bin\Debug\nunit.framework.dll
+C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadora\bin\Debug\nunit.framework.xml
+C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadora\obj\Debug\AppCalculadora.csprojResolveAssemblyReference.cache
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadora\obj\Debug\AppCalculadora.exe
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadora\obj\Debug\AppCalculadora.pdb

@@ -1,0 +1,9 @@
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntosTest\bin\Debug\AppConjuntosTest.dll
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntosTest\bin\Debug\AppConjuntosTest.pdb
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntosTest\bin\Debug\AppConjuntos.exe
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntosTest\bin\Debug\nunit.framework.dll
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntosTest\bin\Debug\AppConjuntos.pdb
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntosTest\bin\Debug\nunit.framework.xml
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntosTest\obj\Debug\AppConjuntosTest.csprojResolveAssemblyReference.cache
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntosTest\obj\Debug\AppConjuntosTest.dll
+C:\Users\Alice\Documents\GitHub\apppoo\AppConjuntosTest\obj\Debug\AppConjuntosTest.pdb
