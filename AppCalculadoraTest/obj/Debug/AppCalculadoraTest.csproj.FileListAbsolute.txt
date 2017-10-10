@@ -1,13 +1,13 @@
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\AppCalculadoraTest.dll
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\AppCalculadoraTest.pdb
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\AppCalculadora.exe
+C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\Castle.Core.dll
+C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\Moq.dll
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\nunit.framework.dll
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\AppCalculadora.pdb
+C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\Moq.pdb
+C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\Moq.xml
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\nunit.framework.xml
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\obj\Debug\AppCalculadoraTest.csprojResolveAssemblyReference.cache
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\obj\Debug\AppCalculadoraTest.dll
 C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\obj\Debug\AppCalculadoraTest.pdb
-C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\Castle.Core.dll
-C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\Moq.dll
-C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\Moq.pdb
-C:\Users\Alice\Documents\GitHub\apppoo\AppCalculadoraTest\bin\Debug\Moq.xml

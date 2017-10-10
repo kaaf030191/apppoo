@@ -1,0 +1,7 @@
+C:\Users\Alice\Documents\GitHub\apppoo\DAL\bin\Debug\DAL.exe.config
+C:\Users\Alice\Documents\GitHub\apppoo\DAL\bin\Debug\DAL.exe
+C:\Users\Alice\Documents\GitHub\apppoo\DAL\bin\Debug\DAL.pdb
+C:\Users\Alice\Documents\GitHub\apppoo\DAL\bin\Debug\Castle.Core.dll
+C:\Users\Alice\Documents\GitHub\apppoo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Alice\Documents\GitHub\apppoo\DAL\obj\Debug\DAL.exe
+C:\Users\Alice\Documents\GitHub\apppoo\DAL\obj\Debug\DAL.pdb

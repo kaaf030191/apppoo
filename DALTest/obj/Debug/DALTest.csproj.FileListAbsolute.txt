@@ -1,0 +1,13 @@
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\bin\Debug\DALTest.dll
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\bin\Debug\DALTest.pdb
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\bin\Debug\Castle.Core.dll
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\bin\Debug\DAL.exe
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\bin\Debug\Moq.dll
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\bin\Debug\nunit.framework.dll
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\bin\Debug\DAL.pdb
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\bin\Debug\Moq.pdb
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\bin\Debug\Moq.xml
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\bin\Debug\nunit.framework.xml
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\obj\Debug\DALTest.csprojResolveAssemblyReference.cache
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\obj\Debug\DALTest.dll
+C:\Users\Alice\Documents\GitHub\apppoo\DALTest\obj\Debug\DALTest.pdb
