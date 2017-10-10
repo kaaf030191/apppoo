@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppOperacionesConjuntos", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppOperacionesConjuntosTest", "AppOperacionesConjuntosTest\AppOperacionesConjuntosTest.csproj", "{C0E98D91-A9C1-42A5-AEA0-AC5E4A856BB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{F2005E10-5BFA-4DF8-AF7E-2E68193DF13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayerTest", "DataAccessLayerTest\DataAccessLayerTest.csproj", "{26D2F4F1-42F7-450B-9C3A-E26609C0E259}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{C0E98D91-A9C1-42A5-AEA0-AC5E4A856BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0E98D91-A9C1-42A5-AEA0-AC5E4A856BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0E98D91-A9C1-42A5-AEA0-AC5E4A856BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2005E10-5BFA-4DF8-AF7E-2E68193DF13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2005E10-5BFA-4DF8-AF7E-2E68193DF13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2005E10-5BFA-4DF8-AF7E-2E68193DF13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2005E10-5BFA-4DF8-AF7E-2E68193DF13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D2F4F1-42F7-450B-9C3A-E26609C0E259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D2F4F1-42F7-450B-9C3A-E26609C0E259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D2F4F1-42F7-450B-9C3A-E26609C0E259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D2F4F1-42F7-450B-9C3A-E26609C0E259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

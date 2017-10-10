@@ -1,6 +1,5 @@
 C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntos\bin\Debug\AppOperacionesConjuntos.exe.config
 C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntos\bin\Debug\AppOperacionesConjuntos.exe
 C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntos\bin\Debug\AppOperacionesConjuntos.pdb
-C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntos\obj\Debug\AppOperacionesConjuntos.csprojResolveAssemblyReference.cache
 C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntos\obj\Debug\AppOperacionesConjuntos.exe
 C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntos\obj\Debug\AppOperacionesConjuntos.pdb

@@ -5,11 +5,16 @@ using System.Text;
 using System.Threading.Tasks;
 namespace appCalculadora
 {
-    public class Operacion
+    public class Operacion : IOperacion
     {
-        public float Sumar(float numero1, float numero2)
+        public float Sumar(float numeroUno, float numeroDos)
         {
-            return numero1 - numero2;
+            return numeroUno + numeroDos;
+        }
+
+        public float Restar(float numeroUno, float numeroDos)
+        {
+            throw new NotImplementedException();
         }
     }
 }

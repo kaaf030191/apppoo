@@ -1,0 +1,13 @@
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\bin\Debug\DataAccessLayerTest.dll
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\bin\Debug\DataAccessLayerTest.pdb
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\bin\Debug\Castle.Core.dll
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\bin\Debug\DataAccessLayer.exe
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\bin\Debug\Moq.dll
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\bin\Debug\nunit.framework.dll
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\bin\Debug\DataAccessLayer.pdb
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\bin\Debug\Moq.pdb
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\bin\Debug\Moq.xml
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\bin\Debug\nunit.framework.xml
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.dll
+C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.pdb

@@ -3,4 +3,3 @@ C:\Users\Robert\Documents\GitHub\apppoo\appCalculadora\bin\Debug\appCalculadora.
 C:\Users\Robert\Documents\GitHub\apppoo\appCalculadora\bin\Debug\appCalculadora.pdb
 C:\Users\Robert\Documents\GitHub\apppoo\appCalculadora\obj\Debug\appCalculadora.exe
 C:\Users\Robert\Documents\GitHub\apppoo\appCalculadora\obj\Debug\appCalculadora.pdb
-C:\Users\Robert\Documents\GitHub\apppoo\appCalculadora\obj\Debug\appCalculadora.csprojResolveAssemblyReference.cache
