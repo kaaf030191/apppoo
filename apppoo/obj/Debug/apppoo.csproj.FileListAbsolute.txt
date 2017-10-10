@@ -1,18 +1,17 @@
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\bin\Debug\apppoo.exe.config
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\bin\Debug\apppoo.exe
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\bin\Debug\apppoo.pdb
-c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.csprojResolveAssemblyReference.cache
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.Properties.Resources.resources
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.csproj.GenerateResource.Cache
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.exe
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.pdb
 c:\users\kaaf0\documents\visual studio 2015\Projects\apppoo\apppoo\obj\Debug\apppoo.FrmPrincipal.resources
+C:\xampp\htdocs\Tareamongodb\apppoo\apppoo\bin\Debug\apppoo.exe.config
+C:\xampp\htdocs\Tareamongodb\apppoo\apppoo\obj\Debug\apppoo.exe
+C:\xampp\htdocs\Tareamongodb\apppoo\apppoo\obj\Debug\apppoo.pdb
+C:\Users\karlos\Desktop\Nueva carpeta\apppoo\bin\Debug\apppoo.exe.config
+C:\Users\karlos\Desktop\Nueva carpeta\apppoo\obj\Debug\apppoo.exe
+C:\Users\karlos\Desktop\Nueva carpeta\apppoo\obj\Debug\apppoo.pdb
 C:\Users\pc\Documents\GitHub\apppoo\apppoo\bin\Debug\apppoo.exe.config
 C:\Users\pc\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.exe
 C:\Users\pc\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.pdb
-C:\Users\pc\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.csprojResolveAssemblyReference.cache
-C:\Users\pc\Documents\GitHub\apppoo\apppoo\bin\Debug\apppoo.exe
-C:\Users\pc\Documents\GitHub\apppoo\apppoo\bin\Debug\apppoo.pdb
-C:\Users\pc\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.FrmPrincipal.resources
-C:\Users\pc\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.Properties.Resources.resources
-C:\Users\pc\Documents\GitHub\apppoo\apppoo\obj\Debug\apppoo.csproj.GenerateResource.Cache

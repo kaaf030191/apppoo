@@ -4,13 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AppCalculadora
+namespace appcalculadora
 {
     class Program
     {
-        public void Main(string[] args)
+        static void Main(string[] args)
         {
+            string nombre = "Kevin Arnold";
+            string apellido = "Arias Figueroa";
 
+            Console.WriteLine(nombre +" "+ apellido);
+
+            Console.ReadLine();
         }
     }
 }

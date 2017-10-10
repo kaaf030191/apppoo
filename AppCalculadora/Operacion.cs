@@ -1,17 +1,17 @@
 ﻿using System;
-namespace AppCalculadora
+
+namespace appcalculadora
 {
-    public class Operacion
+    public class Operacion : IOperacion
     {
-        public float Sumar(float numeroUno,float numeroDos) { 
-       // pas clase yield funciones
-          //  camel case variedades 
-            //float resultado = numeroUno + numeroDos;
-            //return resultado;
-            //refactorizando
+        public float Sumar(float numeroUno, float numeroDos)
+        {
             return numeroUno + numeroDos;
+        }
 
-             }
-
+        public float Restar(float numeroUno, float numeroDos)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

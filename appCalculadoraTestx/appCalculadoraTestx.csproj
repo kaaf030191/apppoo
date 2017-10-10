@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BA1BFFBA-D5BF-4475-B78E-91440FDFE637}</ProjectGuid>
+    <ProjectGuid>{4CABB33F-FDA3-48BD-BF23-7E65803B5F48}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>appCalculadoraTestx</RootNamespace>
-    <AssemblyName>appCalculadoraTestx</AssemblyName>
+    <RootNamespace>appcalculadoratestx</RootNamespace>
+    <AssemblyName>appcalculadoratestx</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -16,6 +16,7 @@
     <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
     <IsCodedUITest>False</IsCodedUITest>
     <TestProjectType>UnitTest</TestProjectType>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -54,9 +55,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AppCalculadora\AppCalculadora.csproj">
-      <Project>{0e6ec937-6d13-48dc-8811-77f52104c457}</Project>
-      <Name>AppCalculadora</Name>
+    <ProjectReference Include="..\appcalculadora\appcalculadora.csproj">
+      <Project>{724a6752-c601-4265-ae34-36a7dcd73413}</Project>
+      <Name>appcalculadora</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

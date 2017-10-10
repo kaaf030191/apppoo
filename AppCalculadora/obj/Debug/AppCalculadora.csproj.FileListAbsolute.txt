@@ -1,1 +1,6 @@
-C:\Users\pc\Documents\GitHub\apppoo\AppCalculadora\obj\Debug\AppCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadora\bin\Debug\appcalculadora.exe.config
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadora\bin\Debug\appcalculadora.exe
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadora\bin\Debug\appcalculadora.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadora\obj\Debug\appcalculadora.csprojResolveAssemblyReference.cache
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadora\obj\Debug\appcalculadora.exe
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadora\obj\Debug\appcalculadora.pdb

@@ -2,35 +2,35 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// La información general de un ensamblado se controla mediante el siguiente 
-// conjunto de atributos. Cambiar estos valores de atributo para modificar la información
-// asociada con un ensamblado.
-[assembly: AssemblyTitle("appCalculadoraTestx")]
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+[assembly: AssemblyTitle("appcalculadoratestx")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("appCalculadoraTestx")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("appcalculadoratestx")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// Si ComVisible se establece en False, los tipos de este ensamblado no estarán visibles 
-// para los componentes COM.  Si es necesario obtener acceso a un tipo en este ensamblado desde 
-// COM, establezca el atributo ComVisible en true en este tipo.
+// Setting ComVisible to false makes the types in this assembly not visible 
+// to COM components.  If you need to access a type in this assembly from 
+// COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
 
-// El siguiente GUID sirve como identificador de typelib si este proyecto se expone a COM
-[assembly: Guid("b620d33e-113a-403e-8d41-cbe2d3a2efb6")]
+// The following GUID is for the ID of the typelib if this project is exposed to COM
+[assembly: Guid("4cabb33f-fda3-48bd-bf23-7e65803b5f48")]
 
-// La información de versión de un ensamblado consta de los siguientes cuatro valores:
+// Version information for an assembly consists of the following four values:
 //
-//      Versión principal
-//      Versión secundaria 
-//      Número de compilación
-//      Revisión
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
 //
-// Puede especificar todos los valores o usar los valores predeterminados de número de compilación y de revisión 
-// mediante el asterisco ('*'), como se muestra a continuación:
-// [ensamblado: AssemblyVersion("1.0.*")]
+// You can specify all the values or you can default the Build and Revision Numbers 
+// by using the '*' as shown below:
+// [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
