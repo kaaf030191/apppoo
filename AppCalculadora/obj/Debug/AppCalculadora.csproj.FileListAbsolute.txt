@@ -3,3 +3,4 @@ A:\SVS\apppoo\AppCalculadora\bin\Debug\AppCalculadora.exe
 A:\SVS\apppoo\AppCalculadora\bin\Debug\AppCalculadora.pdb
 A:\SVS\apppoo\AppCalculadora\obj\Debug\AppCalculadora.exe
 A:\SVS\apppoo\AppCalculadora\obj\Debug\AppCalculadora.pdb
+A:\SVS\apppoo\AppCalculadora\obj\Debug\AppCalculadora.csprojResolveAssemblyReference.cache

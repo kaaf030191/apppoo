@@ -18,7 +18,7 @@ namespace appcalculadoratest
         {
             float resultado = operacion.Sumar(7, 4);
 
-            Assert.That(resultado, Is.EqualTo(9)); 
+            Assert.That(resultado, Is.EqualTo(11)); 
         }
         [TestCase]
         public void SumarSieteYSieteROnce()
