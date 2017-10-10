@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appCalculadoraTestx", "appC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appcalculadoraTest", "appcalculadoraTest\appcalculadoraTest.csproj", "{93FBFADA-3F69-4189-B52B-9A5CE32608C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppOperacionesConjuntos", "AppOperacionesConjuntos\AppOperacionesConjuntos.csproj", "{5C99E93E-25E9-4A26-A96B-5AFED20D2CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppOperacionesConjuntosTest", "AppOperacionesConjuntosTest\AppOperacionesConjuntosTest.csproj", "{C0E98D91-A9C1-42A5-AEA0-AC5E4A856BB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{93FBFADA-3F69-4189-B52B-9A5CE32608C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93FBFADA-3F69-4189-B52B-9A5CE32608C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93FBFADA-3F69-4189-B52B-9A5CE32608C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C99E93E-25E9-4A26-A96B-5AFED20D2CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C99E93E-25E9-4A26-A96B-5AFED20D2CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C99E93E-25E9-4A26-A96B-5AFED20D2CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C99E93E-25E9-4A26-A96B-5AFED20D2CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E98D91-A9C1-42A5-AEA0-AC5E4A856BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E98D91-A9C1-42A5-AEA0-AC5E4A856BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E98D91-A9C1-42A5-AEA0-AC5E4A856BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E98D91-A9C1-42A5-AEA0-AC5E4A856BB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

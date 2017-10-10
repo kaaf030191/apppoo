@@ -1,0 +1,9 @@
+C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntosTest\bin\Debug\AppOperacionesConjuntosTest.dll
+C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntosTest\bin\Debug\AppOperacionesConjuntosTest.pdb
+C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntosTest\bin\Debug\AppOperacionesConjuntos.exe
+C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntosTest\bin\Debug\nunit.framework.dll
+C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntosTest\bin\Debug\AppOperacionesConjuntos.pdb
+C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntosTest\bin\Debug\nunit.framework.xml
+C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntosTest\obj\Debug\AppOperacionesConjuntosTest.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntosTest\obj\Debug\AppOperacionesConjuntosTest.dll
+C:\Users\Robert\Documents\GitHub\apppoo\AppOperacionesConjuntosTest\obj\Debug\AppOperacionesConjuntosTest.pdb
