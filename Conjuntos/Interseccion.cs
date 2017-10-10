@@ -21,12 +21,11 @@ namespace Conjuntos
                         arrayC[da] = arrayA[i];
                         cont++;
                         //return arrayC[da];
-                        Console.Write(arrayC[da] + "___");
-
+                        //Console.Write(arrayC[da] + "___");
                     }
-
-
+                    //return arrayC;
                 }
+               
             }
             return arrayC;
         }

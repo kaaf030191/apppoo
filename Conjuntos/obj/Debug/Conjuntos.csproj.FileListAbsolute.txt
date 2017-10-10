@@ -1,0 +1,4 @@
+C:\Users\DAVID\Documents\GitHub\apppoo\Conjuntos\bin\Debug\Conjuntos.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\Conjuntos\bin\Debug\Conjuntos.pdb
+C:\Users\DAVID\Documents\GitHub\apppoo\Conjuntos\obj\Debug\Conjuntos.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\Conjuntos\obj\Debug\Conjuntos.pdb

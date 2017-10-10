@@ -1,0 +1,9 @@
+C:\Users\DAVID\Documents\GitHub\apppoo\ConjuntoTest\bin\Debug\ConjuntoTest.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\ConjuntoTest\bin\Debug\ConjuntoTest.pdb
+C:\Users\DAVID\Documents\GitHub\apppoo\ConjuntoTest\bin\Debug\Conjuntos.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\ConjuntoTest\bin\Debug\nunit.framework.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\ConjuntoTest\bin\Debug\Conjuntos.pdb
+C:\Users\DAVID\Documents\GitHub\apppoo\ConjuntoTest\bin\Debug\nunit.framework.xml
+C:\Users\DAVID\Documents\GitHub\apppoo\ConjuntoTest\obj\Debug\ConjuntoTest.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Documents\GitHub\apppoo\ConjuntoTest\obj\Debug\ConjuntoTest.dll
+C:\Users\DAVID\Documents\GitHub\apppoo\ConjuntoTest\obj\Debug\ConjuntoTest.pdb

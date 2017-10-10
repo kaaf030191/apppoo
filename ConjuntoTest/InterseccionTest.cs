@@ -15,8 +15,8 @@ namespace ConjuntoTest
         [TestCase]
         public void InterseccionArreglo()
         {
-            int[] ArregloC = Interseccion.CalcularInterseccion(new[] { 2, 2, 1 }, new[] { 2, 3, 4 });
-            Assert.That(ArregloC, Is.EqualTo(new[] { 2 }));
+            int[] ArregloC = Interseccion.CalcularInterseccion(new[] { 1, 2, 3, 4, }, new[] { 2, 3, 5, 3 });
+            Assert.That(ArregloC, Is.EqualTo(new[] { 2,3,3,3,3 }));
         }
         [TearDown]
         public void Finish()
