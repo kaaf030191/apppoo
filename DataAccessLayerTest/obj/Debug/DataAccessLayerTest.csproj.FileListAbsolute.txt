@@ -11,3 +11,16 @@ C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\bin\Debug\nunit.fram
 C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.csprojResolveAssemblyReference.cache
 C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.dll
 C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\bin\Debug\DataAccessLayerTest.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\bin\Debug\DataAccessLayerTest.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\bin\Debug\Castle.Core.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\bin\Debug\DataAccessLayer.exe
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\bin\Debug\Moq.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\bin\Debug\nunit.framework.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\bin\Debug\DataAccessLayer.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\bin\Debug\Moq.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\bin\Debug\Moq.xml
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\bin\Debug\nunit.framework.xml
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.csprojResolveAssemblyReference.cache
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayerTest\obj\Debug\DataAccessLayerTest.pdb

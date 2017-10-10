@@ -3,3 +3,9 @@ C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayer\bin\Debug\DataAccessLaye
 C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
 C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayer\obj\Debug\DataAccessLayer.exe
 C:\Users\Robert\Documents\GitHub\apppoo\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
