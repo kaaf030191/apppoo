@@ -41,6 +41,8 @@ namespace DataAccessLayerTest
             {
                 Assert.IsTrue(resultado[i].nombre.Equals(listaPersonaTemp[i].nombre));
                 Assert.IsTrue(resultado[i].apellido.Equals(listaPersonaTemp[i].apellido));
+                Assert.IsTrue(resultado[i].dni.Equals(listaPersonaTemp[i].dni));
+                Assert.IsTrue(resultado[i].edad.Equals(listaPersonaTemp[i].edad));
             }
         }
 
