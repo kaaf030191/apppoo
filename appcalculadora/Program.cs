@@ -10,6 +10,12 @@ namespace appcalculadora
     {
         static void Main(string[] args)
         {
+            string nombre = "Kevin Arnold";
+            string apellido = "Arias Figueroa";
+
+            Console.WriteLine(nombre +" "+ apellido);
+
+            Console.ReadLine();
         }
     }
 }

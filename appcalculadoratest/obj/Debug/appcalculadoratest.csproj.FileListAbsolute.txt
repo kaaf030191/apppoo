@@ -7,3 +7,7 @@ C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\b
 C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\obj\Debug\appcalculadoratest.csprojResolveAssemblyReference.cache
 C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\obj\Debug\appcalculadoratest.dll
 C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\obj\Debug\appcalculadoratest.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\bin\Debug\Castle.Core.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\bin\Debug\Moq.dll
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\bin\Debug\Moq.pdb
+C:\Users\KAAF0\documents\visual studio 2015\Projects\apppoo\appcalculadoratest\bin\Debug\Moq.xml
