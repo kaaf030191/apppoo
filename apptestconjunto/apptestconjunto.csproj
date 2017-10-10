@@ -53,6 +53,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Union.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\conjunto\conjunto.csproj">
+      <Project>{f65c183c-43fe-4b77-ac79-8d12c2707434}</Project>
+      <Name>conjunto</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

@@ -21,7 +21,7 @@ namespace conjunto
         {
             UnionConjunto unionConjunto = new UnionConjunto();
 
-            unionConjunto.UnionionConjuntoAYConjuntoB();
+           // unionConjunto.UnionionConjuntoAYConjuntoB();
         }
     }
 }

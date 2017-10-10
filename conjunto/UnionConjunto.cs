@@ -28,7 +28,7 @@ namespace conjunto
             conjuntoB.elementosB = 12;
             conjuntoB.elementosB = 13;
 
-           listaConjuntoB.Add(conjuntoB);
+            listaConjuntoB.Add(conjuntoB);
         }
 
         /* public List<UnionConjunto> UnionionConjuntoAYConjuntoB()
@@ -54,8 +54,12 @@ namespace conjunto
          }
          */
 
-        var listB = new List<int> { 3, 4, 5 };
-        var listA = new List<int> { 1, 2, 3, 4, 5 };
+        public void UnionListaAyListaB()
+        {
+            var listB = new List<int> { 3, 4, 5 };
+            var listA = new List<int> { 1, 2, 3, 4, 5 };
+            var listFinal = listA.Union(listB);
+        }
 
     }
 }

@@ -1,9 +1,0 @@
-A:\SVS\apppoo\appcalculadoratest\bin\Debug\appcalculadoratest.dll
-A:\SVS\apppoo\appcalculadoratest\bin\Debug\appcalculadoratest.pdb
-A:\SVS\apppoo\appcalculadoratest\bin\Debug\AppCalculadora.exe
-A:\SVS\apppoo\appcalculadoratest\bin\Debug\nunit.framework.dll
-A:\SVS\apppoo\appcalculadoratest\bin\Debug\AppCalculadora.pdb
-A:\SVS\apppoo\appcalculadoratest\bin\Debug\nunit.framework.xml
-A:\SVS\apppoo\appcalculadoratest\obj\Debug\appcalculadoratest.csprojResolveAssemblyReference.cache
-A:\SVS\apppoo\appcalculadoratest\obj\Debug\appcalculadoratest.dll
-A:\SVS\apppoo\appcalculadoratest\obj\Debug\appcalculadoratest.pdb
