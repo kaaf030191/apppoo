@@ -2,10 +2,10 @@
 {
     public class Persona
     {
-        string dni;
-        string nombre;
-        string apellidos;
-        string edad;
+        public string dni;
+        public string nombre;
+        public string apellidos;
+        public string edad;
         
         public Persona(string _dni, string _nombre, string _apellidos, string _edad)
         {
