@@ -1,5 +1,5 @@
-create database bdventa;
-use bdventa;
+create database bdventas;
+use bdventas;
 
 create table tcliente (
 	dniCliente char(8) not null primary key,
@@ -7,18 +7,23 @@ create table tcliente (
 	apellidosCliente varchar(40) not null,
 	direccionCliente varchar(45) not null,
 	telefonoCliente varchar(9) not null,
-	sexoCliente char(1) not null
+	sexoCliente char(1) not null,
+	rucUsuario char(8) null unique,
+	razonSocial varchar(80) null
 );
 
-create table tvendedor (
-	dniVendedor char(8) not null primary key,
-	nombreVendedor varchar(30) not null,
-	apellidosVendedor varchar(40) not null,
-	direccionVendedor varchar(45) not null,
-	telefonoVendedor varchar(9) not null,
-	turnoVendedor varchar(15) not null,
-	estadoVendedor varchar(20) not null default 'habilitado'
+create table tusuario (
+	dniUsuario char(8) not null primary key,
+	nombreUsuario varchar(30) not null,
+	contrasenha varchar(50) not null,
+	apellidosUsuario varchar(40) not null,
+	direccionUsuario varchar(45) not null,
+	telefonoUsuario varchar(9) not null,
+	turnoUsuario varchar(15) not null,
+	estadoUsuario varchar(20) not null default 'habilitado',
+	tipoUsuario varchar(50) not null default 'vendedor',
 );
+
 
 create table tsucursal (
 	idSucursal int not null primary key identity(1,1),
@@ -26,6 +31,14 @@ create table tsucursal (
 	direccionSucursal varchar(40) not null,
 	telefonoSucursal varchar(9) not null
 );
+
+create table tsucursaltusuarioasiganacion (
+	dniUsuario char(8) not null,
+	idSucursal int not null,
+	foreign key (dniUsuario) references tusuario(dniUsuario),
+	foreign key (idSucursal) references tsucursal(idSucursal)
+);
+
 
 create table tcategoriaproducto (
 	idCategoria int not null primary key identity(1,1),
@@ -35,11 +48,13 @@ create table tcategoriaproducto (
 
 create table tproducto (
 	idProducto int not null primary key identity(1,1),
+	idSucursal int not null,
 	nombreProducto varchar(50) not null,
 	precioProducto decimal(5,2) not null,
 	stockProducto int not null,
 	idCategoria int not null,
-	foreign key (idCategoria) references tcategoriaproducto(idCategoria)
+	foreign key (idCategoria) references tcategoriaproducto(idCategoria),
+	foreign key (idSucursal) references tsucursal(idSucursal)
 );
 
 create table tcomprobante (
@@ -48,19 +63,11 @@ create table tcomprobante (
 	tipoComprobante varchar(50) not null default 'ticket'
 );
 
-create table tfactura (
-	idFactura int not null primary key identity(1,1),
-	razonSocialFactura varchar(100) not null,
-	rucFactura char(11) not null,
-	direccionFactura varchar(50) not null,
-	fechaEmisionFactura date not null
-);
 
 create table tventa (
 	idVenta int not null primary key identity(1,1),
 	dniCliente char(8) not null,
 	dniVendedor char(8) not null,
-	idSucursal int not null,
 	idComprobante int null,
 	idFactura int null,
 	fechaVenta date not null,
@@ -68,10 +75,8 @@ create table tventa (
 	igvVenta decimal(5,2) not null default 0,
 	montoTotal decimal(5,2) not null default 0,
 	foreign key (dniCliente) references tcliente(dniCliente),
-	foreign key (dniVendedor) references tvendedor(dniVendedor),
-	foreign key (idSucursal) references tsucursal(idSucursal),
-	foreign key (idComprobante) references tcomprobante(idComprobante),
-	foreign key (idFactura) references tfactura(idFactura)
+	foreign key (dniVendedor) references tusuario(dniUsuario),
+	foreign key (idComprobante) references tcomprobante(idComprobante)
 );
 
 create table tdetalleventa (
@@ -79,6 +84,7 @@ create table tdetalleventa (
 	idVenta int not null,
 	idProducto int not null,
 	cantidad int not null,
+	nombreProducto varchar(50) not null,
 	costo decimal(5,2) not null default 0,
 	foreign key (idVenta) references tventa(idVenta),
 	foreign key (idProducto) references tproducto(idProducto)
